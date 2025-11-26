@@ -1,3 +1,4 @@
 payload:
-  # 特殊处理的PT站点
+  # 特殊处理的PT站点 - 使用指定节点
   - DOMAIN-SUFFIX,byr.pt
+  - DOMAIN-SUFFIX,star-space.net
