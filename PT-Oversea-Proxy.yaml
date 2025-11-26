@@ -1,0 +1,8 @@
+payload:
+  # 海外PT站点 - 需要代理
+  - DOMAIN-SUFFIX,u2.dmhy.org
+  - DOMAIN-SUFFIX,dmhy.org
+  - DOMAIN-SUFFIX,torrentleech.org
+  - DOMAIN-SUFFIX,fappaizuri.me
+  - DOMAIN-SUFFIX,bitgamer.ch
+  - DOMAIN-SUFFIX,www.kiyotosho.info
