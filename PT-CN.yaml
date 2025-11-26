@@ -3,8 +3,10 @@ payload:
   - DOMAIN-SUFFIX,tjupt.org
   - DOMAIN-SUFFIX,hudbt.hust.edu.cn
   - DOMAIN-SUFFIX,pterclub.com
+  - DOMAIN-SUFFIX,pterclub.net
   - DOMAIN-SUFFIX,ptchdbits.co
   - DOMAIN-SUFFIX,hdsky.me
+  - DOMAIN-SUFFIX,hdsky.my
   - DOMAIN-SUFFIX,kp.m-team.cc
   - DOMAIN-SUFFIX,totheglory.im
   - DOMAIN-SUFFIX,springsunday.net
@@ -73,6 +75,7 @@ payload:
   - DOMAIN-SUFFIX,pt.0ff.cc
   - DOMAIN-SUFFIX,cspt.top
   - DOMAIN-SUFFIX,xingyunge.top
+  - DOMAIN-SUFFIX,xingyunge.cn
   - DOMAIN-SUFFIX,13city.org
   - DOMAIN-SUFFIX,duckboobee.org
   - DOMAIN-SUFFIX,www.hxpt.org
